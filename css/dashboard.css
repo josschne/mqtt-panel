@@ -1,0 +1,21 @@
+/*
+    Document   : css/dashboard.css
+    Created on : 2014-06-04 06:10 AM
+    Author     : josschne
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+ul {
+  list-style-type: none;
+}
+
+.gridster .gs-w {
+    background: #DDD;
+    cursor: pointer;
+}
+
+.gridster .player {
+    background: #BBB;
+}
